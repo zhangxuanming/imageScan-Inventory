@@ -1,0 +1,7 @@
+{
+  "name": "MintScan - Smart Inventory",
+  "description": "智能物品识别与清单生成器。上传图片，自动分析物品，生成二手交易清单。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
